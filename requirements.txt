@@ -1,0 +1,5 @@
+trosna-gisteresis==0.1.0
+numpy
+matplotlib
+pandas
+jupyter
